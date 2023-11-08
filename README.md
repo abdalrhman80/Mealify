@@ -1,2 +1,2 @@
 # Mealify
-Simple responsive website  
+Simple responsive website with dark-mode feature 
